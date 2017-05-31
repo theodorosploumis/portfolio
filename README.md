@@ -2,21 +2,19 @@
 
 **Table of Contents**
 
-   * [My personal portfolio](#my-personal-portfolio)
-   * [Table of Contents](#table-of-contents)
-      * [Social Profiles](#social-profiles)
-      * [Drupal distributions](#drupal-distributions)
-      * [Drupal modules](#drupal-modules)
-      * [Drupal related projects](#drupal-related-projects)
-      * [Websites](#websites)
-      * [Website Design](#website-design)
-      * [Logos and Identity](#logos-and-identity)
-      * [Collections and Manuals](#collections-and-manuals)
-      * [Presentations](#presentations)
-         * [2020](#2020)
-         * [2016](#2016)
-         * [2015](#2015)
-      * [Other](#other)
+    * [Social Profiles](#social-profiles)
+    * [Drupal distributions](#drupal-distributions)
+    * [Drupal modules](#drupal-modules)
+    * [Drupal related projects](#drupal-related-projects)
+    * [Websites](#websites)
+    * [Website Design](#website-design)
+    * [Logos and Identity](#logos-and-identity)
+    * [Collections and Manuals](#collections-and-manuals)
+    * [Presentations](#presentations)
+       * [2020](#2020)
+       * [2016](#2016)
+       * [2015](#2015)
+    * [Other](#other)
 
 ---
 
