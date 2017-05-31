@@ -55,6 +55,7 @@
 
 ## Websites
 - [See on my website](http://www.theodorosploumis.com/en/portfolio)
+- [Serres Hackathon 2017](http://hackathon.serrestech.gr)
 
 ## Website Design
 - [See on Pinterest](https://gr.pinterest.com/theoploumis/website-designs)
