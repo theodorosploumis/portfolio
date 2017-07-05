@@ -50,6 +50,7 @@
 - [Examples of using docker with Drupal 8.x](https://github.com/theodorosploumis/drupal-docker)
 - [Drupal 8.x custom settings files](https://github.com/theodorosploumis/drupal8-settings)
 - [Drupal 8.x Project Checklist](https://github.com/theodorosploumis/drupal8-checklist)
+- [Drupal 8.x Lessons & Courses structure](https://theodorosploumis.github.io/drupal-lessons)
 - [A Drupal 7.x developer level table](http://theodorosploumis.github.io/drupal-level)
 - [Shell script to install Drush 7.x on shared hosting](https://github.com/theodorosploumis/drush-installer)
 
