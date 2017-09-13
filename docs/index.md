@@ -43,6 +43,7 @@
 - [custom_scripts](https://github.com/theodorosploumis/custom_scripts)
 
 ## Drupal related projects
+- [Drupal Reports](https://github.com/theodorosploumis/drupal-report)
 - [Awesome Drupal 8.x](https://github.com/theodorosploumis/awesome-drupal)
 - [drec (DRupal Eight Commands)](https://github.com/theodorosploumis/drec)
 - [Drupal theme validator](https://github.com/theodorosploumis/drupal-theme-validator)
