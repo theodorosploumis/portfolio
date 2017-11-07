@@ -18,6 +18,8 @@
 
 ---
 
+[edit Portfolio](https://github.com/theodorosploumis/portfolio/edit/master/docs/index.md)
+
 ## Social Profiles
 - [Website](http://www.theodorosploumis.com/en)
 - [GitHub](https://github.com/theodorosploumis)
@@ -43,6 +45,7 @@
 - [custom_scripts](https://github.com/theodorosploumis/custom_scripts)
 
 ## Drupal related projects
+- [Drupal Distributions](https://distros.bid)
 - [Drupal Reports](https://github.com/theodorosploumis/drupal-report)
 - [Awesome Drupal 8.x](https://github.com/theodorosploumis/awesome-drupal)
 - [drec (DRupal Eight Commands)](https://github.com/theodorosploumis/drec)
@@ -88,6 +91,7 @@
 - [Working from Home - The factors of success!](http://theodorosploumis.github.io/howtoremote)
 
 ## Other
+- [Faaast Download - A package manager as a service](https://faaast.download)
 - [Instant php chat](https://github.com/theodorosploumis/php-chat)
 - [HTML Styleguide demo](http://theodorosploumis.github.io/styleguide)
 - [Lorem ipsum files for demonstrations (pdf, txt, images etc)](https://github.com/theodorosploumis/lorem-stuff)
