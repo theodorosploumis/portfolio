@@ -18,8 +18,6 @@
 
 ---
 
-[edit Portfolio](https://github.com/theodorosploumis/portfolio/edit/master/docs/index.md)
-
 ## Social Profiles
 - [Website](http://www.theodorosploumis.com/en)
 - [GitHub](https://github.com/theodorosploumis)
