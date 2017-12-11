@@ -90,6 +90,7 @@
 
 ## Other
 - [Faaast Download - A package manager as a service](https://faaast.download)
+- [tplcom/dophpsdk - A php package for docker related commands](https://github.com/theodorosploumis/dophpsdk)
 - [Instant php chat](https://github.com/theodorosploumis/php-chat)
 - [HTML Styleguide demo](http://theodorosploumis.github.io/styleguide)
 - [Lorem ipsum files for demonstrations (pdf, txt, images etc)](https://github.com/theodorosploumis/lorem-stuff)
