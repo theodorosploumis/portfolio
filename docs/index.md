@@ -58,7 +58,7 @@
 
 ## Websites
 - [See on my website](http://www.theodorosploumis.com/en/portfolio)
-- [Serres Hackathon 2017](http://hackathon.serrestech.gr)
+- [Serres Hackathon](http://hackathon.serrestech.gr)
 
 ## Website Design
 - [See on Pinterest](https://gr.pinterest.com/theoploumis/website-designs)
@@ -75,6 +75,9 @@
 
 ### 2020
 - [We are front-end \*ers](https://theodorosploumis.github.io/frontpassion)
+
+### 2018
+- [The Art of Presentation](https://theodorosploumis.github.io/art-of-presentation)
 
 ### 2016
 - [Docker for Developers - Introduction](http://theodorosploumis.github.io/docker-presentation)
