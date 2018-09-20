@@ -11,7 +11,8 @@
   - [Logos and Identity](#logos-and-identity)
   - [Collections and Manuals](#collections-and-manuals)
   - [Presentations](#presentations)
-     - [2020](#2020)
+     - [2019](#2019)
+     - [2018](#2018)
      - [2016](#2016)
      - [2015](#2015)
   - [Other](#other)
@@ -73,8 +74,9 @@
 
 ## Presentations
 
-### 2020
+### 2019
 - [We are front-end \*ers](https://theodorosploumis.github.io/frontpassion)
+- [Using Docker to create a Paas](https://theodorosploumis.github.io/docker-paas)
 
 ### 2018
 - [The Art of Presentation](https://theodorosploumis.github.io/art-of-presentation)
